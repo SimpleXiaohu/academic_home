@@ -1,0 +1,15 @@
+# Site settings
+title: Academic Homepage
+description: My academic homepage
+author: SimpleXiaohu
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Social links
+github_username: SimpleXiaohu
+
+# Exclude files from processing
+exclude:
+  - README.md
