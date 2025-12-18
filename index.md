@@ -41,6 +41,23 @@ title: ""
 ### [Solving string constraints with Regex-dependent functions through transducers with priorities and variables](https://doi.org/10.1145/3498707)
 Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**, Shuanglong Kan, Anthony W. Lin, Philipp Rümmer, and Zhilin Wu. *POPL 2022*.
 
+### [An efficient string solver for string constraints with regex-counting and string-length](https://doi.org/10.1016/j.sysarc.2025.103340)
+**Denghang Hu**, Zhilin Wu. *JSA 2025*.
+
+### [Decision Procedures for A Theory of String Sequences](https://doi.org/10.1007/978-981-95-3585-9_11)
+**Denghang Hu**, Taolue Chen, Philipp Rüemmer, Fu Song, Zhilin Wu. *APLAS 2025*.
+
+### [String Constraints with Regex-Counting and String-Length Solved More Efficiently](https://doi.org/10.1007/978-981-99-8664-4_1)
+**Denghang Hu**, Zhilin Wu. *SETTA 2025*.
+
+### [A Decision Procedure for Path Feasibility of String Manipulating Programs with Integer Data Type](https://doi.org/10.1007/978-3-030-59152-6_18)
+Taolue Chen, Matthew Hague, Jinlong He, **Denghang Hu**, Anthony Widjaja Lin, Philipp Rümmer, and Zhilin Wu. *ATVA 2020*.
+
+### [Solving Not-Substring Constraint with Flat Abstraction](https://doi.org/10.1007/978-3-030-89051-3_17)
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, **Denghang Hu**, Wei-Lun Tsai, Zhillin Wu, and Di-De Yen. *APLAS 2021*.
+
+### [OSTRICH2: Solver for Complex String Constraints](https://doi.org/10.48550/arXiv.2506.14363)
+Matthew Hague, **Denghang Hu**, Artur Jeż, Anthony W. Lin, Oliver Markgraf, Philipp Rümmer, and Zhilin Wu. *FMCAD 2025*.
 
 ## News & Updates
 
