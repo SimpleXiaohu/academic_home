@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <div style="text-align: center; margin-bottom: 3rem;">
   <h1 style="margin-bottom: 0.5rem; font-size: 2.5rem;">Deng Hang Hu</h1>
 </div>
@@ -21,10 +26,8 @@
 
 ## Publications
 
-### [Solving string constraints with Regex-dependent functions through transducers with priorities and variables](https://doi.org/10.1145/3462309)
+### [Solving string constraints with Regex-dependent functions through transducers with priorities and variables](https://doi.org/10.1145/3498707)
 Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**, Shuanglong Kan, Anthony W. Lin, Philipp Rümmer, and Zhilin Wu. *POPL 2022*.
-
-### 
 
 
 ## News & Updates
@@ -45,8 +48,6 @@ Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**,
     <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" style="margin-right: 1rem;">Google Scholar</a>
   </p>
 </div>
-
----
 
 <div style="text-align: center; margin-top: 3rem; color: #999; font-size: 0.9rem;">
   <p>Last updated: December 2025</p>
