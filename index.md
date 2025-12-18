@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: ""
+show_title: false
 ---
 
 <div style="text-align: center; margin-bottom: 3rem;">
