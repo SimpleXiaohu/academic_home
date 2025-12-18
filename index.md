@@ -46,7 +46,3 @@ Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**,
 
 - **December 2025**: Created my academic homepage.
 
-
-<div style="text-align: center; margin-top: 3rem; color: #999; font-size: 0.9rem;">
-  <p>Last updated: December 2025</p>
-</div>
