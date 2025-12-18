@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <div style="text-align: center; margin-bottom: 3rem;">
   <h1 style="margin-bottom: 0.5rem; font-size: 2.5rem;">Deng Hang Hu</h1>
   <p style="font-size: 1.2rem; color: #666; margin-top: 0;">Researcher | Academic Professional</p>
