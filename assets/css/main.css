@@ -1,5 +1,19 @@
 /* Custom styles for Academic Homepage */
 
+/* Hide Jekyll-generated page title */
+.post-header,
+.post-title,
+.page-header,
+.page-title {
+  display: none;
+}
+
+/* Hide first h1 in post-content if it's not inside a div (theme-generated title) */
+.post-content > h1:first-of-type,
+.page-content > h1:first-of-type {
+  display: none;
+}
+
 /* Enhanced typography */
 .page-content {
   max-width: 900px;
