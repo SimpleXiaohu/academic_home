@@ -1,6 +1,7 @@
 # Site settings
 title: ""            # IMPORTANT: removes site title text
-
+description: ""      # optional
+author: "DengHang Hu"
 
 # Build settings
 theme: minima
