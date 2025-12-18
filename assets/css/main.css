@@ -206,3 +206,17 @@ section {
   color: #7f8c8d;
   font-weight: bold;
 }
+
+/* Footer styling */
+.site-footer {
+  text-align: center;
+}
+
+.site-footer .wrapper {
+  text-align: center;
+}
+
+.site-footer p {
+  text-align: center;
+  margin: 0;
+}
