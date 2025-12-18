@@ -1,7 +1,7 @@
 # Site settings
 title: ""
+description: ""
 url: https://www.denghanghu.com
-baseurl: ""
 
 # Build settings
 theme: minima
