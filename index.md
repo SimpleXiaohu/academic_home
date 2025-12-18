@@ -6,19 +6,13 @@ show_title: false
 
 <div class="profile-header" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 2px solid #ecf0f1;">
   <div class="profile-picture" style="flex-shrink: 0;">
-    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Deng Hang Hu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.denghanghu.com/files/denghang_profile.jpg" alt="DengHang Hu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div class="profile-info" style="flex: 1;">
-    <h1 style="margin: 0 0 0.5rem 0; font-size: 2.5rem; color: #2c3e50;">Deng Hang Hu</h1>
+    <h1 style="margin: 0 0 0.5rem 0; font-size: 2.5rem; color: #2c3e50;">DengHang Hu</h1>
     <div class="contact-info-header" style="margin-top: 1rem;">
       <p style="margin: 0.5rem 0;">
-        <strong>Email:</strong> <a href="mailto:[your.email@university.edu]">[your.email@university.edu]</a>
-      </p>
-      <p style="margin: 0.5rem 0;">
-        <strong>Office:</strong> [Building, Room Number]
-      </p>
-      <p style="margin: 0.5rem 0;">
-        <strong>Address:</strong> [Department Name], [University Name], [Address]
+        <strong>Email:</strong> <a href="mailto:hudh@ios.ac.cn">hudh@ios.ac.cn</a>
       </p>
       <div style="margin-top: 1rem;">
         <a href="https://github.com/SimpleXiaohu" target="_blank" style="margin-right: 1rem; color: #3498db;">GitHub</a>
