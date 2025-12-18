@@ -27,10 +27,10 @@ title: ""
       I am a PhD student in <a href="https://versys.ios.ac.cn/" target="_blank">Research Group on Verification of System Software (VerSys)</a>, Institute of Software, Chinese Academy of Sciences, advised by <a href="https://lcs.ios.ac.cn/~wuzl/index.html" target="_blank">Prof. Zhilin Wu</a>.
     </p>
     <p>
-      My research focuses on solving string and sequence constraints. More specifically, I aim to develop scalable decision procedures for string and sequence constraints by combining automata-based techniques with SMT-based reasoning. 
+      My research focuses on solving string and sequence constraints. More specifically, I aim to develop decision procedures for string and sequence constraints by combining automata-based techniques with SMT-based reasoning. 
     </p>
     <p>
-      I'm seeking for a Postdoctoral position starting from March 2026. Please feel free to contact me if you have any opportunities. <a href="https://www.denghanghu.com/files/cv_denghang.pdf" target="_blank">Download CV</a>
+      I'm seeking for a Postdoctoral position starting from July 2026. Please feel free to contact me if you have any opportunities. <a href="https://www.denghanghu.com/files/cv_denghang.pdf" target="_blank">Download CV</a>
     </p>
   </div>
 </div>
