@@ -1,7 +1,7 @@
 # Site settings
-title: ""
-description: ""
-url: https://www.denghanghu.com
+title: ""            # IMPORTANT: removes site title text
+description: ""      # optional
+author: "DengHang Hu"
 
 # Build settings
 theme: minima
