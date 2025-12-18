@@ -1,15 +1,14 @@
 # Site settings
-# title: ""            # IMPORTANT: removes site title text
-# description: ""      # optional
-# author: "DengHang Hu"
+title: ""            # IMPORTANT: removes site title text
+
 
 # Build settings
 theme: minima
 markdown: kramdown
 highlighter: rouge
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Navigation
 header_pages:

@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: home
 title: ""
-show_title: false
 ---
 
 <div class="profile-header" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 2px solid #ecf0f1;">
