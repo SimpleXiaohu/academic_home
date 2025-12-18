@@ -22,8 +22,6 @@ show_title: false
   </div>
 </div>
 
-## About Me
-
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex: 1;">
     <p>
