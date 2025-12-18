@@ -1,11 +1,31 @@
 ---
-layout: page
+layout: default
 title: ""
 show_title: false
 ---
 
-<div style="text-align: center; margin-bottom: 3rem;">
-  <h1 style="margin-bottom: 0.5rem; font-size: 2.5rem;">Deng Hang Hu</h1>
+<div class="profile-header" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 2px solid #ecf0f1;">
+  <div class="profile-picture" style="flex-shrink: 0;">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Deng Hang Hu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div class="profile-info" style="flex: 1;">
+    <h1 style="margin: 0 0 0.5rem 0; font-size: 2.5rem; color: #2c3e50;">Deng Hang Hu</h1>
+    <div class="contact-info-header" style="margin-top: 1rem;">
+      <p style="margin: 0.5rem 0;">
+        <strong>Email:</strong> <a href="mailto:[your.email@university.edu]">[your.email@university.edu]</a>
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <strong>Office:</strong> [Building, Room Number]
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <strong>Address:</strong> [Department Name], [University Name], [Address]
+      </p>
+      <div style="margin-top: 1rem;">
+        <a href="https://github.com/SimpleXiaohu" target="_blank" style="margin-right: 1rem; color: #3498db;">GitHub</a>
+        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" style="margin-right: 1rem; color: #3498db;">Google Scholar</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## About Me
@@ -19,7 +39,7 @@ show_title: false
       My research focuses on solving string and sequence constraints. More specifically, I aim to develop scalable decision procedures for string and sequence constraints by combining automata-based techniques with SMT-based reasoning. 
     </p>
     <p>
-      I’m seeking for a Postdoctoral position starting from March 2026. Please feel free to contact me if you have any opportunities. <a href="https://www.denghanghu.com/files/cv_denghang.pdf" target="_blank">Download CV</a>
+      I'm seeking for a Postdoctoral position starting from March 2026. Please feel free to contact me if you have any opportunities. <a href="https://www.denghanghu.com/files/cv_denghang.pdf" target="_blank">Download CV</a>
     </p>
   </div>
 </div>
@@ -35,20 +55,6 @@ Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**,
 
 - **December 2025**: Created my academic homepage.
 
-## Contact
-
-<div style="margin-top: 2rem;">
-  <p>
-    <strong>Email:</strong> [your.email@university.edu]<br>
-    <strong>Office:</strong> [Building, Room Number]<br>
-    <strong>Address:</strong> [Department Name], [University Name], [Address]
-  </p>
-  
-  <p style="margin-top: 1rem;">
-    <a href="https://github.com/SimpleXiaohu" target="_blank" style="margin-right: 1rem;">GitHub</a>
-    <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" style="margin-right: 1rem;">Google Scholar</a>
-  </p>
-</div>
 
 <div style="text-align: center; margin-top: 3rem; color: #999; font-size: 0.9rem;">
   <p>Last updated: December 2025</p>
