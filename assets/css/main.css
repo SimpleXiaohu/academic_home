@@ -1,3 +1,10 @@
+/* Hide Jekyll site header/navigation */
+.site-header,
+.site-nav,
+header.site-header {
+  display: none !important;
+}
+
 /* Enhanced typography */
 .page-content {
   max-width: 900px;
