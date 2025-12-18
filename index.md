@@ -20,8 +20,11 @@
 
 
 ## Publications
+
 ### [Solving string constraints with Regex-dependent functions through transducers with priorities and variables](https://doi.org/10.1145/3462309)
 Taolue Chen, Alejandro Flores-Lamas, Matthew Hague, Zhilei Han, **Denghang Hu**, Shuanglong Kan, Anthony W. Lin, Philipp Rümmer, and Zhilin Wu. *POPL 2022*.
+
+### 
 
 
 ## News & Updates
