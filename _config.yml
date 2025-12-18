@@ -1,8 +1,6 @@
 # Site settings
-title: Deng Hang Hu - Academic Homepage
-description: Academic homepage of Deng Hang Hu - Researcher and Academic Professional
-author: Deng Hang Hu
-email: your.email@university.edu
+title: Academic Homepage
+description: Academic homepage
 url: https://www.denghanghu.com
 baseurl: ""
 
@@ -13,12 +11,6 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Social links
-github_username: SimpleXiaohu
-twitter_username: # Add your Twitter handle
-linkedin_username: # Add your LinkedIn username
-google_scholar_id: # Add your Google Scholar ID
 
 # Navigation
 header_pages:
